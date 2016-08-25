@@ -1,0 +1,167 @@
+body {
+
+	background: url("../img/fundo1-madeira.jpg");
+	background-position: center;
+    background-attachment: fixed;
+
+}
+
+
+.titulo h2 {
+
+    font-family: arial, sans-serif;
+    text-shadow: 3px 4px 6px rgba( 0, 0, 0, 0.5 );
+    font-size: 30pt; 
+    position: absolute;
+    text-transform: uppercase;
+    margin: -100px 200px 0px 205px; 
+    color: #fff;
+
+}
+
+.titulo {
+     
+    
+	
+    
+    
+    margin-top: -20px;
+
+
+}
+
+.titulo img {
+
+    
+	margin-left:-20px;
+	height: 180px; 
+}
+
+.borda {
+
+
+    position: absolute;
+	border-bottom: 1px #606060 solid;
+	width: 100%;
+	margin-top: 9px;
+	margin-left: -10px;
+
+}
+
+
+.menu {
+
+	display: block;
+	margin-top: -23px;
+}
+
+.menu h1 {
+
+	display: none;
+}
+
+
+.menu ul {
+
+	list-style: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: -77px ;
+	left: 760px ;
+
+
+}
+
+.menu li {
+
+    display: inline-block;
+    background-color: #ddd;
+    padding: 8px;
+    margin: 6px;    
+    transition: background-color 1s ; 
+
+}
+
+
+.menu li:hover {
+
+	background-color: #606060;
+
+}
+
+
+.menu a {
+
+	color: #000000;
+    text-decoration: none;
+
+}
+
+.menu a:hover {
+
+	color: #fff;
+
+}
+
+
+
+.conteudo {
+
+	background: #fff;
+	width: 900px;
+	height: 640px;
+	margin: -60px 0px 0px 227px;
+	padding: 10px;
+	padding-top: 50px;
+	position: absolute;
+	
+	
+}
+
+.conteudo h2 {
+
+	color: #000;
+}
+
+.conteudo legend {
+
+	color: #000;
+}
+
+.conteudo p {
+
+	color: #000;
+}
+
+.conteudo fieldset {
+
+	color: #000;
+}
+
+
+	
+.usuario {
+
+	margin: 20px 5px 5px 5px;
+}
+
+.endereco {
+
+	margin: 15px 5px 5px 5px;
+}
+
+
+.rodape {
+
+	clear: both;
+	border-top: 1px solid #000;
+	width: 102%;
+	margin-left: -9px;
+	
+}
+
+.rodape p {
+
+	text-align: center;
+	padding: 5px;
+}

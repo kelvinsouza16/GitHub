@@ -1,0 +1,134 @@
+*{margin:0; padding: 0;border: 0}
+
+body{
+
+	background-image: url(http://wallpaperlab.net/wp-content/uploads/2015/10/naruto-shippuden-ninja-tsuki-no-ookisa-wplab.jpg); ;
+	background-position: center 0px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: Verdana, Geneva, sans-serif; 
+	color: #FFF;  
+}
+
+.site{
+
+	width: 950px;
+	background: rgba(0, 0, 60, 0.65);
+	margin: 0px auto 0px auto;
+	box-shadow: 0px 0px 40px #ffffff;
+
+	
+	
+
+}
+
+.topo{
+
+	
+	background-image: url(https://farm4.staticflickr.com/3859/14580633756_7ca246d820_b.jpg);
+	height: 504px;
+
+}
+
+.img {
+
+	background-image: url(http://mongz.sextgem.com/downloads/logo.png);
+	background-repeat:no-repeat;
+	height: 500px;
+	
+	
+	
+}
+
+.menu {
+
+	background-image: url(http://4.bp.blogspot.com/-mBc-OUTkHPs/VeVT50zuq-I/AAAAAAAAAEU/duK5MIa8_1k/s320/Sharinnegan.jpg); 
+	height: 150px;
+ 	list-style: none;
+ 	float: center;
+    margin-top: 5px ;
+    
+
+}
+
+
+
+.menuepisodios ul {
+
+	list-style: none;
+	text-transform: uppercase;
+	
+
+}
+
+.menuepisodios li {
+
+	display: inline-block;
+	background:rgba(0, 0, 100, .6);
+    padding: 5px;
+    margin: 2px;
+    transition: background-color 2s;
+}
+
+.menuepisodios li:hover {
+
+	background:rgba(0, 0, 100, .9); 
+}
+
+.menuepisodios h3 {
+
+font-family: arial, sans-serif;
+background: rgba(0, 0, 100, .6  );
+text-shadow: 1px 1px 2px rgba(0, 0, 0, .6); 	
+padding: 8px 8px 8px 40px;
+margin:2px;
+
+
+}
+
+.menuepisodios a {
+
+ color: #ffffff;
+ text-decoration: none;
+
+}
+
+.menuepisodios a:hover {
+
+	color: #ffffff;
+}
+
+.conteudo{
+
+	background: rgba(0, 0, 0, .4);
+	height: 450px;
+	width: 710px;
+	margin-top: 5px;
+	float: right;
+	margin-bottom: 5px;
+}
+
+.conteudo p {
+
+	padding: 8px;
+}
+
+.sidebar{
+
+	background-image: url(http://f0.pepst.com/c/0940AD/965652/ssc3/home/087/wapanimes/naruto_bijuu_mode___by_cassy_f_e_d4nor5v.jpg_480_480_0_64000_0_1_0.jpg);
+	height: 450px;
+	margin-top: 5px;
+	width: 235px;
+	background-repeat: no-repeat;
+	float: left;
+
+}
+
+.rodape {
+
+    
+	background-image: url(https://cdn.scratch.mit.edu/static/site/users/avatars/1410/1673.png);
+	height: 400px;
+	clear: both;
+	
+}
